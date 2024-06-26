@@ -1,6 +1,3 @@
-Certainly! Here's an example of how you might rewrite the README file for your GitHub repository:
-
----
 
 # Song Recommendation App
 
@@ -62,5 +59,3 @@ Here's how the app works:
 This project was created to demonstrate basic recommendation techniques using genre data. Feel free to contribute or use it as a template for similar applications.
 
 ---
-
-Feel free to adjust the content based on your specific implementation details and any additional features you may have included in your app!
